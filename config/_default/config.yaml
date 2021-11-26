@@ -5,7 +5,7 @@
 
 title: Hamed Nazari # Website name
 baseurl: 'https://hamedswebsite.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '@ {year} Hamed Nazari' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
